@@ -1,0 +1,50 @@
+[
+{
+    "nome": "Ana",
+    "sobrenome": "Lucia",
+    "empresa": "Google",
+    "endereco": "Av Paulista",
+    "numero": "4000",
+    "pais": "Brasil",
+    "cidade": "São Paulo",
+    "estado": "São Paulo",
+    "cep": "08121000",
+    "telefone": "11948498988",
+    "email": "teste@jessica.br"
+
+
+},
+{
+    "nome": "Jessica",
+    "sobrenome": "Lucia",
+    "empresa": "EBAC",
+    "endereco": "Av João",
+    "numero": "8800",
+    "pais": "Brasil",
+    "cidade": "São Paulo",
+    "estado": "São Paulo",
+    "cep": "01012000",
+    "telefone": "11948498900",
+    "email": "teste@jessica.com.br"
+},
+
+{
+    "nome": "Maria",
+    "sobrenome": "Lucia",
+    "empresa": "Netflix",
+    "endereco": "Av República",
+    "numero": "12",
+    "pais": "Brasil",
+    "cidade": "São Paulo",
+    "estado": "São Paulo",
+    "cep": "08745012",
+    "telefone": "11978455444",
+    "email": "maria.netflix@teste.com"
+}
+
+
+
+
+
+
+]
